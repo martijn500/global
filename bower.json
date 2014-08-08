@@ -1,6 +1,12 @@
 {
   "name": "global",
   "version": "0.0.1",
+  "main": "dist/styles/global.css",
+  "ignore": [
+	"test",
+	"node_modules",
+	"app"
+  ],
   "dependencies": {
     "angular": "1.2.16",
     "json3": "~3.3.1",
