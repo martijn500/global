@@ -1,7 +1,10 @@
 {
   "name": "global",
   "version": "0.0.1",
-  "main": "dist/styles/global.css",
+  "main": [
+	"dist/styles/global.css",
+	"dist/styles/bg.gif"
+  ],
   "ignore": [
 	"test",
 	"node_modules",
