@@ -2,6 +2,7 @@
 body.global {
   padding-top: 20px;
   padding-bottom: 20px;
+  background-image: url('bg.gif');
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
